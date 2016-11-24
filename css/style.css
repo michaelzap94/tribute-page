@@ -1,0 +1,15 @@
+  #discography {
+    position: relative;
+    float: right;
+    border-color: #3c3c3c;
+    border-width: medium;
+    border-style: solid;
+    border-radius: 10px;
+  }
+  
+  .headerdiv {
+    border-radius: 10px;
+    background-color: #3c3c3c;
+    color: whitesmoke;
+    padding: 1px;
+  }
